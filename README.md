@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ciweigg2&repo=flutter_easyHub&show_owner=true&title_color=50DA8B&icon_color=50DA8B)](https://github.com/ciweigg2/springboot-dubbo-seata)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ciweigg2&repo=iOSDataFactory&show_owner=true&title_color=50DA8B&icon_color=50DA8B)](https://github.com/ifgyong/iOSDataFactory)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ciweigg2&repo=demo&show_owner=true&title_color=46BAEB&icon_color=46BAEB)](https://github.com/ifgyong/demo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ciweigg2&repo=flutter-example&show_owner=true&title_color=46BAEB&icon_color=46BAEB)](https://github.com/ifgyong/flutter-example)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ciweigg2&repo=flutter-guide&show_owner=true&title_color=F8854D&icon_color=F8854D)](https://github.com/ifgyong/flutter-guide)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ciweigg2&repo=flutter_custom_calendar&show_owner=true&title_color=F8854D&icon_color=F8854D)](https://github.com/ifgyong/flutter_custom_calendar)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ciweigg2&repo=flutter_simple_record_and_player&show_owner=true&title_color=F8CE04&icon_color=F8CE04)](https://github.com/ifgyong/flutter_simple_record_and_player)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ciweigg2&repo=springboot-dubbo-seata&show_owner=true&title_color=50DA8B&icon_color=50DA8B)](https://github.com/ciweigg2/springboot-dubbo-seata)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifgyong&show_icons=true)](https://github.com/ciweigg2/ciweigg2)
