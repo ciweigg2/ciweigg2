@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ciweigg2&repo=springboot-dubbo-seata&show_owner=true&title_color=50DA8B&icon_color=50DA8B)](https://github.com/ciweigg2/springboot-dubbo-seata)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ifgyong&show_icons=true)](https://github.com/ciweigg2/ciweigg2)
 
 ### 🌈 My Github State
@@ -25,4 +23,8 @@ Here are some ideas to get you started:
 ### 🎉 My Open Source Project
 <a href="https://github.com/ciweigg2/springboot-dubbo-seata">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ciweigg2&repo=springboot-dubbo-seata&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<a href="https://github.com/ciweigg2/mybatis-plus-generator">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ciweigg2&repo=mybatis-plus-generator&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
