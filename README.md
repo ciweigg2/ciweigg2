@@ -1,4 +1,4 @@
-### Hi there 👋
+### 如果没有你
 
 <!--
 **ciweigg2/ciweigg2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌈 My Github State
+### 🌱 My Github State
 [![ciweigg2's github stats](https://github-readme-stats.vercel.app/api?username=ciweigg2&theme=vue&show_icons=true)](https://github.com/ciweigg2/ciweigg2)
 
 ### 🎉 My Open Source Project
