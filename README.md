@@ -25,21 +25,18 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ciweigg2&repo=springboot-dubbo-seata&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<a href="https://github.com/ciweigg2/mybatis-plus-generator">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ciweigg2&repo=mybatis-plus-generator&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/ciweigg2/redisson-spring-boot-starter">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ciweigg2&repo=redisson-spring-boot-starter&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
-<span>
 <a href="https://github.com/ciweigg2/spring-cloud-alibaba-demos">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ciweigg2&repo=spring-cloud-alibaba-demos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
-</span>
 
-<span>
+<!--
 <a href="https://github.com/ciweigg2/springboot-mybatis-quick">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ciweigg2&repo=springboot-mybatis-quick&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
-</span>
 
 <a href="https://github.com/ciweigg2/springboot-demos">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ciweigg2&repo=springboot-demos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
@@ -48,3 +45,4 @@ Here are some ideas to get you started:
 <a href="https://github.com/ciweigg2/ciweigg2.github.io">
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ciweigg2&repo=ciweigg2.github.io&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
+-->
