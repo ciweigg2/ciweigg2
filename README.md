@@ -22,15 +22,15 @@ Here are some ideas to get you started:
 
 ### 🎉 My Open Source Project
 <a href="https://github.com/ciweigg2/springboot-dubbo-seata">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ciweigg2&repo=springboot-dubbo-seata&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ciweigg2&repo=springboot-dubbo-seata&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 <a href="https://github.com/ciweigg2/redisson-spring-boot-starter">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ciweigg2&repo=redisson-spring-boot-starter&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ciweigg2&repo=redisson-spring-boot-starter&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 <a href="https://github.com/ciweigg2/spring-cloud-alibaba-demos">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ciweigg2&repo=spring-cloud-alibaba-demos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ciweigg2&repo=spring-cloud-alibaba-demos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 <!--
