@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🌱 My Github State
+### My Github State
 [![ciweigg2's github stats](https://github-readme-stats.vercel.app/api?username=ciweigg2&theme=vue&show_icons=true)](https://github.com/ciweigg2/ciweigg2)
 
-### 🎉 My Open Source Project
+### My Open Source Project
 <a href="https://github.com/ciweigg2/redisson-spring-boot-starter">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ciweigg2&repo=redisson-spring-boot-starter&theme=vue&show_icons=true" />
 </a>
